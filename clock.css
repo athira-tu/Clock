@@ -1,0 +1,29 @@
+.main {
+    border: 1px solid #567;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 10%;
+    justify-content: space-around;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHKju69yPu7uDxILjbS1zCP6eSluf9FBk4Q&usqp=CAU);
+    background-size: cover;
+    margin-left: 450px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px #567;
+    font-size: 50px;
+    font-family: 'lucida sans', 'lucida sans regular', 'lucida grande', 'lucida sans unicode', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+#milli {
+    font-size: 20px;
+    color: red;
+}
+
+.date {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
